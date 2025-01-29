@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://data-management-demo-ik-leela/dvc-store-leela
+    url = s3://data-management-demo-ik-leela/dvc-store
